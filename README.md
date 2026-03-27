@@ -24,7 +24,7 @@
 <h3 align="left">My projects</h3>
 
 <p align="left">
-  <a href="https://github.com/cream44luv/BreakingBadSheduleWallpaper">🖼 Wallpaper Scheduler</a><br
+  <a href="https://github.com/cream44luv/BreakingBadSheduleWallpaper">🖼 Breaking Bad Shedule Wallpaper</a><br
 </p>
 
 ###
