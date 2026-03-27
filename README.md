@@ -24,9 +24,7 @@
 <h3 align="left">My projects</h3>
 
 <p align="left">
-  <a href="https://github.com/ТВОЙ_ЛОГИН/todo-app">📌 Todo App</a><br>
-  <a href="https://github.com/ТВОЙ_ЛОГИН/wallpaper-scheduler">🖼 Wallpaper Scheduler</a><br>
-  <a href="https://github.com/ТВОЙ_ЛОГИН/portfolio">🌐 Portfolio</a>
+  <a href="https://github.com/cream44luv/BreakingBadSheduleWallpaper">🖼 Wallpaper Scheduler</a><br
 </p>
 
 ###
