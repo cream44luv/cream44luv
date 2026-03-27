@@ -31,30 +31,13 @@
 
 ###
 
-<h3 align="left">GitHub Stats</h3>
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-###
-
-<h3 align="left">Activity</h3>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ТВОЙ_ЛОГИН&theme=dark&hide_border=true" />
-</p>
-
-###
-
 <h3 align="left">Contact</h3>
 
 <p align="left">
-  <a href="https://t.me/ТВОЙ_ЮЗЕРНЕЙМ">
+  <a href="https://t.me/cream44luv">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:ТВОЯ_ПОЧТА">
+  <a href="mailto:derig533@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
