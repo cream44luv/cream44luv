@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет, я cream44luv 👋
 
-<!--
-**cream44luv/cream44luv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент университета  
+💻 Начинающий frontend-разработчик  
+🚀 Изучаю JavaScript, TypeScript и веб-разработку на практике
 
-Here are some ideas to get you started:
+## Обо мне
+Сейчас я активно развиваюсь в программировании, делаю pet-проекты, изучаю frontend и улучшаю свои навыки через практику.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+JavaScript • TypeScript • HTML • CSS • Git • GitHub • VS Code
+
+## Проекты
+- **BreakingBadSheduleWallpaper** — смена обоев по времени
+- **Tic-Tac-Toe / Telegram Mini Apps** — логика приложений и мини-игры
+- **Notes Mini App** — приложение для заметок
+
+## Цели
+- расти во frontend-разработке
+- изучить React глубже
+- собирать сильное портфолио
+- писать более качественный код
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cream44luv&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cream44luv&layout=compact&theme=tokyonight)
+
+## Контакты
+[Мой GitHub](https://github.com/cream44luv)
